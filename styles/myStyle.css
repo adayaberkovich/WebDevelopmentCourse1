@@ -1,0 +1,34 @@
+body {
+    direction: rtl;
+  
+}
+
+#container{
+    font-family:Alef;
+    font-size:16px;
+    padding:50px;
+    background-color:darkgray;
+}
+.Korot {
+    font-family:Alef;
+    font-size: 20px;
+    color:lightpink;
+
+}
+.mypicture {
+border:10px;
+border-color:orchid;
+
+}
+#facebookimg {
+
+div
+    -webkit-transition: width 2s ease-in-out;
+    -moz-transition: width 2s ease-in-out;
+    -ms-transition: width 2s ease-in-out;
+    -o-transition: width 2s ease-in-out;
+    transition: width 2s ease-in-out;
+}
+.contactdetails h4 {
+    color: deeppink;
+}
